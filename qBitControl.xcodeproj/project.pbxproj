@@ -789,7 +789,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 8;
 				DEVELOPMENT_ASSET_PATHS = "";
-				DEVELOPMENT_TEAM = 626XV358Y5;
+				DEVELOPMENT_TEAM = Q4X55987WE;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = qBitControl/Info.plist;
@@ -806,7 +806,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.2.2;
-				PRODUCT_BUNDLE_IDENTIFIER = MikeMichael225.qBitControl;
+				PRODUCT_BUNDLE_IDENTIFIER = com.artcc.qbitcontrol;
 				PRODUCT_NAME = qBitManager;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = YES;
@@ -825,7 +825,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 8;
 				DEVELOPMENT_ASSET_PATHS = "";
-				DEVELOPMENT_TEAM = 626XV358Y5;
+				DEVELOPMENT_TEAM = Q4X55987WE;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = qBitControl/Info.plist;
@@ -842,7 +842,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.2.2;
-				PRODUCT_BUNDLE_IDENTIFIER = MikeMichael225.qBitControl;
+				PRODUCT_BUNDLE_IDENTIFIER = com.artcc.qbitcontrol;
 				PRODUCT_NAME = qBitManager;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = YES;
